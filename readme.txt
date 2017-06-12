@@ -2,3 +2,5 @@
  my first step to git
  git is really nice for fresher
  show the diff
+ 
+ create a new branch is quickly
